@@ -25,5 +25,5 @@
 </p>
 
 <h2>My recent projects:</h2>
-<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ywette/Ywette/blob/main/assets/game1.JPG" alt="rock-paper-scissors-spock-lizard" width="40" height="40"/> </a> 
+<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ywette/Ywette/blob/main/assets/game1.JPG" alt="rock-paper-scissors-spock-lizard" width="300" height="200"/> </a> 
 
