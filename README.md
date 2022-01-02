@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Iveta </h1>
 <h3 align="center">Frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/ivetastaune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivetastaune/" height="30" width="40" /></a>
 
 <a href="mailto:iveta.staune@gmil.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" height="40" width="40" alt="alt text" title="image Title" /></a>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h2 align="left">Languages and Tools I use:</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -24,4 +24,6 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ywette&show_icons=true&locale=en&layout=compact" alt="ywette" /></p>
+<h2>My recent projects:</h2>
+<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://rock-paper-scissors-lizard-spock-game.netlify.app/" alt="rock-paper-scissors-spock-lizard" width="40" height="40"/> </a> 
+
