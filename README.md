@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivetastaune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivetastaune/" height="30" width="40" /></a>
 </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox)
 📫  <a>iveta.staune@gmail.com</a>
 
 <h3 align="left">Languages and Tools I use:</h3>
