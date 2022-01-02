@@ -3,10 +3,10 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/ivetastaune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivetastaune/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivetastaune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" title="linked in" height="30" width="40" /></a>
 
 <a href="mailto:iveta.staune@gmil.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" height="40" width="40" alt="alt text" title="image Title" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" alt="link to gmail" height="40" width="40" alt="alt text" title="link to gmail" /></a>
 
 <h2 align="left">Languages and Tools I use:</h2>
 <p align="left"> 
@@ -25,5 +25,5 @@
 </p>
 
 <h2>My recent projects:</h2>
-<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://rock-paper-scissors-lizard-spock-game.netlify.app/" alt="rock-paper-scissors-spock-lizard" width="40" height="40"/> </a> 
+<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ywette/Ywette/blob/main/assets/game1.JPG" alt="rock-paper-scissors-spock-lizard" width="40" height="40"/> </a> 
 
