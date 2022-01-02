@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywette&label=Profile%20views&color=0e75b6&style=flat" alt="ywette" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivetastaune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivetastaune/" height="30" width="40" /></a>
-</p>
-<p align="left">
+
+
 <a href="mailto:iveta.staune@gmil.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" height="40" width="40" alt="alt text" title="image Title" /></a></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" height="40" width="40" alt="alt text" title="image Title" /></a>
 
 
 📫  <a>iveta.staune@gmail.com</a>
