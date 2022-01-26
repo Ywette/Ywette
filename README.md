@@ -24,10 +24,14 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<!-- <h2>My recent projects:</h2>
-<a href="https://rock-paper-scissors-lizard-spock-game.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ywette/Ywette/blob/main/assets/game1.JPG" alt="rock-paper-scissors-spock-lizard" width="300" height="200"/> </a> 
+<h2>Featured projects:</h2>
+<a href="https://airbnb-second.web.app/" target="_blank" rel="noreferrer"> AirBnb clone in React </br>
+  <img src="https://github.com/Ywette/airbnb-clone/blob/master/public/intro.JPG"
+       alt="airBnb clone"width="300" height="200"/> </a> 
 
-<a href="https://weather-app-api-js.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ywette/Ywette/blob/main/assets/weather-app.JPG" alt="weather-app" width="300" height="200"/> </a>  -->
+<a href="https://weather-app-api-js.netlify.app/" target="_blank" rel="noreferrer"> Weather app with google map </br>
+  <img src="https://github.com/Ywette/Ywette/blob/main/assets/weather-app.JPG" 
+       alt="weather-app" width="300" height="200"/> </a> 
 
 
 
